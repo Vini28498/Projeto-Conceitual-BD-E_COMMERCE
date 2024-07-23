@@ -1,1 +1,1 @@
-*.sql linguist-language=TSQL
+*.tsql linguist-language=TSQL
